@@ -2,10 +2,6 @@ Trabalho em grupo de Engenharia de Software II
 Projeto e Implementação de Estudo de Caso desenvolvido em sprints na disciplina de engenharia de software 2.
 No desenvolvimento do projeto foi utilizado a bib tkinter do python para a GUI, e sqlite para o BD.
 
-Grupo:  Guilherme Catrinque Drummond
-	Maria Isabel Santana Araujo
-	Rodrigo Pela Hernandes
-	Windsor Lóss Assis
 
 Sprint 1
  video - https://youtu.be/LJWcc6A4zQY
