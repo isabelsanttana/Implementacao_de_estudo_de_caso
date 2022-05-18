@@ -1,9 +1,5 @@
 Trabalho de Engenharia de Software II
 
-Grupo:  Guilherme Catrinque Drummond
-	Maria Isabel Santana Araujo
-	Rodrigo Pela Hernandes
-	Windsor Lóss Assis
 
 Sprint 1
  video - https://youtu.be/LJWcc6A4zQY
