@@ -2,11 +2,6 @@ Trabalho de Engenharia de Software II
 
 Sprint 1 
 
-Grupo:  Guilherme Catrinque Drummond
-	Maria Isabel Santana Araujo
-	Rodrigo Pela Hernandes
-	Windsor Lóss Assis
-
 Para abrir basta executar app.py
 *Caso não abra, executar os outros módulos*
 
